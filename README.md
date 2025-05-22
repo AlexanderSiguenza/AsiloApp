@@ -1,5 +1,7 @@
 # Proyecto Profe - Asilo de Ancianos Esperanza de Santa Ana
 
+# Documentacion : https://deepwiki.com/AlexanderSiguenza/AsiloApp
+
 El **Asilo de Ancianos Esperanza de Santa Ana** actualmente lleva los registros de sus pacientes, doctores e historial de citas en tablas de Excel, lo cual ocasiona pérdidas de información. Cada doctor maneja su propio archivo, y a menudo olvidan actualizarlo tras las citas. Debido a esta situación, solicitan una **aplicación móvil** que centralice el control de los registros. La aplicación permitirá:
 
 1. Acceso a la aplicación mediante usuario y contraseña, con opción de autenticación a través de Gmail.
